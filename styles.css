@@ -1,0 +1,28 @@
+.title-heading{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.sub-heading {
+    color: white;
+    background-color: mediumslateblue;
+    text-align: center;
+}
+
+.description-text {
+    font-weight: bold;
+}
+
+.ingredient-text {
+    font-size: 20px;
+}
+
+.steps-text {
+    font-size: 18px;
+}
